@@ -1,0 +1,1 @@
+Substitua os arquivos antigos do repositório pelos arquivos deste pacote e mantenha todos na raiz. Inclui logo transparente, favicon, Apple Touch Icon e Open Graph para compartilhamento.
