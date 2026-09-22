@@ -1,1 +1,9 @@
-Substitua os arquivos antigos do repositório pelos arquivos deste pacote e mantenha todos na raiz. Inclui logo transparente, favicon, Apple Touch Icon e Open Graph para compartilhamento.
+duckzLabs v3
+
+A marca agora é montada de forma híbrida:
+- mascote separado em imagem
+- “duckzLabs” escrito em HTML/CSS, evitando perda do “duckz”
+- duckz sempre minúsculo; Labs com L maiúsculo
+- favicon e Open Graph mantidos
+
+No GitHub, substitua os arquivos anteriores pelos arquivos deste pacote e mantenha todos na raiz.
